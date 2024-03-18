@@ -1,0 +1,20 @@
+
+#a
+{
+    width: 25%;
+    height: 200px;
+    border: 1px solid black;
+    margin-left: 100px;
+    margin-top: 200px;
+    border-radius: 100%;
+}
+#b1
+{
+    color: red;
+    font-size: 45px;
+}
+#b2
+{
+    color: blue;
+    font-size: 20px;
+}
